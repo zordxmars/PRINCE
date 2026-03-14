@@ -1,7 +1,7 @@
             {
-    "serverstatus":"true",
+    "serverstatus":"false",
     "noticemode":"true",
-    "dataclearmode":"false",
+    "dataclearmode":"true",
     "servermeassage":"Wait We Are Working On a new Update",
     "opentime":" Wait For Some Time ⚡",
     "libs":"https://github.com/zordxmars/PRINCE/raw/refs/heads/main/libbgmi.zip",
